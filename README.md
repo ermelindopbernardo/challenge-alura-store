@@ -66,6 +66,3 @@ Esses gráficos ajudam a visualizar padrões, identificar produtos e categorias 
 - A **distribuição de preços** mostra quais faixas de produtos são mais populares.
 
 ---
-
-
-## 📂 Estrutura do Projeto
